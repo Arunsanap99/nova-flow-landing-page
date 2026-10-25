@@ -1,0 +1,6 @@
+{
+  "name": "Novaflow - Modern Event & Workflow Engine",
+  "description": "A stunning, responsive, high-performance landing page for Novaflow, featuring dark/light mode, smooth animations, interactive pricing, animated statistics, and accessible navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
